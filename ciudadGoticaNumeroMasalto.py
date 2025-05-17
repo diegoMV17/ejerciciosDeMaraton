@@ -1,3 +1,4 @@
+#Edificio mas alto en la ciudad gótica
 iteration = int(input())
 masalto = {}
 altitud = []
